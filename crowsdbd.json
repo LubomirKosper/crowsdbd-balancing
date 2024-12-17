@@ -1,6 +1,6 @@
 {
 	"Name": "CrowsDBD",
-	"Version": 1734429750,
+	"Version": 1734431552,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "https://www.youtube.com/@CrowsDBD",
 	"Tiers": [
@@ -1807,6 +1807,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"52",
 				"13",
 				"21",
 				"34",
