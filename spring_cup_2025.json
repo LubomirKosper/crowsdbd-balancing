@@ -1,6 +1,6 @@
 {
 	"Name": "Spring Cup 2025",
-	"Version": 1735931759,
+	"Version": 1735934639,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -266,7 +266,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "TIER 1 - The Gas Heaven",
+			"KillerNotes": "TIER 1 - Gas Heaven",
 			"IsDisabled": false,
 			"Map": [
 				"7"
@@ -342,7 +342,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "TIER 1 - The Rancid Abattoir",
+			"KillerNotes": "TIER 1 - Rancid Abattoir",
 			"IsDisabled": false,
 			"Map": [
 				"11"
@@ -654,7 +654,7 @@
 		},
 		{
 			"Name": "The Huntress",
-			"KillerNotes": "TIER 2 - The Ironworks of Misery II",
+			"KillerNotes": "TIER 2 - Ironworks II",
 			"IsDisabled": false,
 			"Map": [
 				"44"
@@ -956,7 +956,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "TIER 1 - The Blood Lodge",
+			"KillerNotes": "TIER 1 - Blood Lodge",
 			"IsDisabled": false,
 			"Map": [
 				"6"
@@ -1166,7 +1166,7 @@
 		},
 		{
 			"Name": "The Ghost Face",
-			"KillerNotes": "TIER 5 - Lérys",
+			"KillerNotes": "TIER 5 - Lerys",
 			"IsDisabled": false,
 			"Map": [
 				"20"
@@ -1330,7 +1330,7 @@
 		},
 		{
 			"Name": "The Oni",
-			"KillerNotes": "TIER 3 - The Coal Tower I",
+			"KillerNotes": "TIER 3 - CT",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -1409,7 +1409,7 @@
 		},
 		{
 			"Name": "The Deathslinger",
-			"KillerNotes": "TIER 2 - The Wreckers Yard",
+			"KillerNotes": "TIER 2 - Wreckers Yard",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -1481,7 +1481,7 @@
 		},
 		{
 			"Name": "The Executioner",
-			"KillerNotes": "TIER 2 - The Wreckers Yard",
+			"KillerNotes": "TIER 2 - Wreckers Yard",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -1553,7 +1553,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "TIER 1 - Suffocation Pit II",
+			"KillerNotes": "TIER 1 - Suffo II",
 			"IsDisabled": false,
 			"Map": [
 				"46"
@@ -2084,7 +2084,7 @@
 		},
 		{
 			"Name": "The Mastermind",
-			"KillerNotes": "TIER 3 - The Coal Tower I",
+			"KillerNotes": "TIER 3 - CT",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -2520,7 +2520,7 @@
 		},
 		{
 			"Name": "The Dark Lord",
-			"KillerNotes": "TIER 2 - The Dead Dawg Saloon",
+			"KillerNotes": "TIER 2 - DDS",
 			"IsDisabled": false,
 			"Map": [
 				"33"
