@@ -1,6 +1,6 @@
 {
 	"Name": "Spring Cup 2025",
-	"Version": 1735928884,
+	"Version": 1735931759,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -179,7 +179,7 @@
 		},
 		{
 			"Name": "The Wraith",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 5 - Hawkins",
 			"IsDisabled": false,
 			"Map": [
 				"32"
@@ -266,7 +266,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 1 - The Gas Heaven",
 			"IsDisabled": false,
 			"Map": [
 				"7"
@@ -342,7 +342,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 1 - The Rancid Abattoir",
 			"IsDisabled": false,
 			"Map": [
 				"11"
@@ -416,7 +416,7 @@
 		},
 		{
 			"Name": "The Shape",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 5 - Hawkins",
 			"IsDisabled": false,
 			"Map": [
 				"32"
@@ -570,7 +570,7 @@
 		},
 		{
 			"Name": "The Doctor",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 4 - CT",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -654,7 +654,7 @@
 		},
 		{
 			"Name": "The Huntress",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 2 - The Ironworks of Misery II",
 			"IsDisabled": false,
 			"Map": [
 				"44"
@@ -729,7 +729,7 @@
 		},
 		{
 			"Name": "The Cannibal",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 4 - DDS",
 			"IsDisabled": false,
 			"Map": [
 				"33"
@@ -956,7 +956,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 1 - The Blood Lodge",
 			"IsDisabled": false,
 			"Map": [
 				"6"
@@ -1080,7 +1080,7 @@
 		},
 		{
 			"Name": "The Plague",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 4 - Suffo I",
 			"IsDisabled": false,
 			"Map": [
 				"4"
@@ -1166,7 +1166,7 @@
 		},
 		{
 			"Name": "The Ghost Face",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 5 - Lérys",
 			"IsDisabled": false,
 			"Map": [
 				"20"
@@ -1253,7 +1253,7 @@
 		},
 		{
 			"Name": "The Demogorgon",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 3 - Azarov's Resting Place",
 			"IsDisabled": false,
 			"Map": [
 				"5"
@@ -1330,7 +1330,7 @@
 		},
 		{
 			"Name": "The Oni",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 3 - The Coal Tower I",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -1409,7 +1409,7 @@
 		},
 		{
 			"Name": "The Deathslinger",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 2 - The Wreckers Yard",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -1481,7 +1481,7 @@
 		},
 		{
 			"Name": "The Executioner",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 2 - The Wreckers Yard",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -1553,7 +1553,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 1 - Suffocation Pit II",
 			"IsDisabled": false,
 			"Map": [
 				"46"
@@ -1770,7 +1770,7 @@
 		},
 		{
 			"Name": "The Cenobite",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 4 - DDS",
 			"IsDisabled": false,
 			"Map": [
 				"33"
@@ -1905,7 +1905,7 @@
 		},
 		{
 			"Name": "The Onryo",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 5 - Midwich",
 			"IsDisabled": false,
 			"Map": [
 				"34"
@@ -1994,7 +1994,7 @@
 		},
 		{
 			"Name": "The Dredge",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 5 - Midwich",
 			"IsDisabled": false,
 			"Map": [
 				"34"
@@ -2084,7 +2084,7 @@
 		},
 		{
 			"Name": "The Mastermind",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 3 - The Coal Tower I",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -2400,7 +2400,7 @@
 		},
 		{
 			"Name": "The Unknown",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 3 - Pale Rose",
 			"IsDisabled": false,
 			"Map": [
 				"18"
@@ -2520,7 +2520,7 @@
 		},
 		{
 			"Name": "The Dark Lord",
-			"KillerNotes": "",
+			"KillerNotes": "TIER 2 - The Dead Dawg Saloon",
 			"IsDisabled": false,
 			"Map": [
 				"33"
