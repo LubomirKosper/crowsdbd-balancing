@@ -1,6 +1,6 @@
 {
 	"Name": "CZ/SK Spring Cup 2025",
-	"Version": 1736009550,
+	"Version": 1736088045,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -342,7 +342,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "TIER 1 - Rancid Abattoir",
+			"KillerNotes": "TIER 1 - Rancid Abattoir - 2x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"11"
@@ -407,8 +407,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1553,7 +1552,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "TIER 1 - Suffo II",
+			"KillerNotes": "TIER 1 - Suffo II - 2x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"46"
@@ -1617,8 +1616,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
