@@ -1,12 +1,13 @@
 {
 	"Name": "Entity Trials – Season 1",
-	"Version": 1754916909,
+	"Version": 1754917065,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
 		{
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
+				"285",
 				"7",
 				"258",
 				"16",
