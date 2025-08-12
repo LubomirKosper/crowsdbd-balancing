@@ -1,6 +1,6 @@
 {
 	"Name": "Entity Trials - Season 1",
-	"Version": 1754917278,
+	"Version": 1754992418,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -399,7 +399,7 @@
 		},
 		{
 			"Name": "The Shape",
-			"KillerNotes": "",
+			"KillerNotes": "2x Firecracker",
 			"IsDisabled": false,
 			"Map": [
 				0
@@ -444,7 +444,9 @@
 				98,
 				95
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -530,7 +532,7 @@
 		},
 		{
 			"Name": "The Doctor",
-			"KillerNotes": "2x Firecracker",
+			"KillerNotes": "cannibal nema itemy\n",
 			"IsDisabled": false,
 			"Map": [
 				"8",
@@ -571,7 +573,9 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -727,7 +731,9 @@
 			"IndividualAddonBans": [
 				174
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -1850,7 +1856,7 @@
 		},
 		{
 			"Name": "The Dredge",
-			"KillerNotes": "",
+			"KillerNotes": "2x Firecracker",
 			"IsDisabled": false,
 			"Map": [
 				0
@@ -1896,7 +1902,9 @@
 			"IndividualAddonBans": [
 				554
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -2408,7 +2416,9 @@
 			"IndividualAddonBans": [
 				717
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
