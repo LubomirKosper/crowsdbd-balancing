@@ -1,6 +1,6 @@
 {
 	"Name": "Entity Trials - Season 1",
-	"Version": 1754992495,
+	"Version": 1754992548,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -532,7 +532,7 @@
 		},
 		{
 			"Name": "The Doctor",
-			"KillerNotes": "cannibal nema itemy\n",
+			"KillerNotes": "2x Firecracker",
 			"IsDisabled": false,
 			"Map": [
 				"8",
