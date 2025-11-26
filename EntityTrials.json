@@ -1,6 +1,6 @@
 {
 	"Name": "Entity Trials - Season 1",
-	"Version": 1759915502,
+	"Version": 1764192267,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2745,7 +2745,7 @@
 		{
 			"Name": "The Krasue",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
