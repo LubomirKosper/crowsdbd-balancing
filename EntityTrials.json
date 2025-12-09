@@ -1,6 +1,6 @@
 {
 	"Name": "Entity Trials - Season 1",
-	"Version": 1764192267,
+	"Version": 1765268071,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -11,6 +11,8 @@
 				"52",
 				"7",
 				"258",
+				"11",
+				"13",
 				"16",
 				"17",
 				"18",
@@ -18,9 +20,12 @@
 				"19",
 				"20",
 				"22",
+				"23",
+				"25",
 				"60",
 				"286",
 				"288",
+				"33",
 				"279",
 				"43",
 				"280",
@@ -30,8 +35,10 @@
 				"55",
 				"274",
 				"252",
+				"59",
 				"289",
 				"66",
+				"69",
 				"269",
 				"73",
 				"74",
@@ -46,6 +53,7 @@
 				"98",
 				"100",
 				"275",
+				"110",
 				"263",
 				"113",
 				"260",
@@ -53,6 +61,7 @@
 				"290",
 				"287",
 				"120",
+				"124",
 				"254",
 				"130"
 			],
@@ -60,6 +69,8 @@
 				"133",
 				"134",
 				"147",
+				"149",
+				"153",
 				"155",
 				"163",
 				"276",
@@ -71,6 +82,7 @@
 				"175",
 				"177",
 				"277",
+				"178",
 				"180",
 				"183",
 				"264",
@@ -195,13 +207,16 @@
 				"38",
 				"57",
 				"76",
+				"77",
 				"80",
 				"85",
 				"96",
 				"92",
+				"102",
 				"112",
 				"121",
-				"127"
+				"127",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -266,11 +281,13 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"150",
-				"178"
+				"178",
+				"181"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"34",
+				"36",
 				"38"
 			],
 			"SurvivorComboPerkBans": [],
@@ -330,9 +347,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
 				"22",
-				"52"
+				"52",
+				"34"
 			],
 			"BalanceTiers": [
 				0
@@ -409,7 +426,7 @@
 		},
 		{
 			"Name": "The Shape",
-			"KillerNotes": "2x Firecracker",
+			"KillerNotes": "2x Firecracker\n\nRequired add-on: Vanity Mirror\nRequired add-on: Lock of Hair",
 			"IsDisabled": false,
 			"Map": [
 				0
@@ -449,10 +466,15 @@
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
+			"AddonTiersBanned": [
+				0,
+				1,
+				2,
+				4
+			],
 			"IndividualAddonBans": [
-				98,
-				95
+				95,
+				84
 			],
 			"ItemWhitelist": [
 				0
@@ -572,6 +594,7 @@
 				"85",
 				"96",
 				"92",
+				"102",
 				"112",
 				"121",
 				"127"
@@ -638,14 +661,18 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"13",
+				"21",
 				"34",
 				"36",
 				"38",
+				"76",
 				"80",
 				"96",
 				"92",
+				"102",
 				"112",
-				"121"
+				"121",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -658,7 +685,6 @@
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				5,
-				7,
 				0
 			],
 			"AddonWhitelist": {
@@ -669,10 +695,7 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": [
-						2,
-						11
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
@@ -728,6 +751,7 @@
 				"85",
 				"96",
 				"92",
+				"102",
 				"112",
 				"121",
 				"127"
@@ -796,14 +820,18 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"13",
+				"21",
 				"34",
 				"36",
 				"38",
+				"76",
 				"80",
 				"96",
 				"92",
+				"102",
 				"112",
-				"121"
+				"121",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -816,8 +844,7 @@
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				0,
-				5,
-				7
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -827,10 +854,7 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": [
-						2,
-						11
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
@@ -961,9 +985,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"0",
 				"18",
-				"19",
-				"33"
+				"19"
 			],
 			"BalanceTiers": [
 				0
@@ -1331,9 +1355,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"46",
 				"8",
-				"9"
+				"9",
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -1347,6 +1371,7 @@
 			"SurvivorIndvPerkBans": [
 				"13",
 				"34",
+				"36",
 				"38",
 				"80",
 				"96",
@@ -1454,12 +1479,12 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "",
+			"KillerNotes": "Midwich map\n- Required add-on: Blighted Crow\n- Required add-on: Blighted Rat",
 			"IsDisabled": false,
 			"Map": [
-				"4",
 				"42",
-				"7"
+				"7",
+				"34"
 			],
 			"BalanceTiers": [
 				0
@@ -1759,6 +1784,7 @@
 			"SurvivorIndvPerkBans": [
 				"13",
 				"34",
+				"36",
 				"38",
 				"80",
 				"96",
@@ -1967,14 +1993,18 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"13",
+				"21",
 				"34",
 				"36",
 				"38",
+				"76",
 				"80",
 				"96",
 				"92",
+				"102",
 				"112",
-				"121"
+				"121",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1987,8 +2017,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				7
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1998,10 +2027,7 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": [
-						2,
-						11
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2132,7 +2158,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"43",
+				"1",
 				"5",
 				"33"
 			],
@@ -2148,6 +2174,7 @@
 			"SurvivorIndvPerkBans": [
 				"13",
 				"34",
+				"36",
 				"38",
 				"80",
 				"96",
@@ -2309,8 +2336,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"42",
-				"44",
+				"32",
+				"33",
 				"34"
 			],
 			"BalanceTiers": [
@@ -2324,14 +2351,18 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"13",
+				"21",
 				"34",
 				"36",
 				"38",
+				"76",
 				"80",
 				"96",
 				"92",
+				"102",
 				"112",
-				"121"
+				"121",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2344,7 +2375,6 @@
 			],
 			"ItemWhitelist": [
 				5,
-				7,
 				0
 			],
 			"AddonWhitelist": {
@@ -2355,10 +2385,7 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": [
-						2,
-						11
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2413,6 +2440,7 @@
 				"85",
 				"96",
 				"92",
+				"102",
 				"112",
 				"121",
 				"127"
@@ -2482,6 +2510,7 @@
 			"SurvivorIndvPerkBans": [
 				"13",
 				"34",
+				"36",
 				"38",
 				"80",
 				"96",
@@ -2594,7 +2623,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"43",
+				"1",
 				"5",
 				"6"
 			],
@@ -2612,6 +2641,7 @@
 			"SurvivorIndvPerkBans": [
 				"13",
 				"34",
+				"36",
 				"38",
 				"80",
 				"96",
@@ -2672,7 +2702,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8",
+				"12",
 				"20",
 				"34"
 			],
@@ -2688,6 +2718,7 @@
 			"SurvivorIndvPerkBans": [
 				"13",
 				"34",
+				"36",
 				"38",
 				"80",
 				"96",
