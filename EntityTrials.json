@@ -1,6 +1,6 @@
 {
 	"Name": "Entity Trials - Season 1",
-	"Version": 1765268071,
+	"Version": 1765439243,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1479,7 +1479,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "Midwich map\n- Required add-on: Blighted Crow\n- Required add-on: Blighted Rat",
+			"KillerNotes": "Midwich map\n- Required add-on: Blighted Crow\n- Required add-on: Vigo's Journal",
 			"IsDisabled": false,
 			"Map": [
 				"42",
