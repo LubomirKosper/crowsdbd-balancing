@@ -1,6 +1,6 @@
 {
 	"Name": "Entity Trials - Season 1",
-	"Version": 1770150968,
+	"Version": 1770151024,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2778,7 +2778,9 @@
 			"KillerNotes": "1x Firecracker\n1x Utility Flashlight\n1x Camping Aid Kit (Bandages + Gel Dressings)\n1x Toolbox (Brown Add-ons)",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"0",
+				"11",
+				"54"
 			],
 			"BalanceTiers": [
 				0
