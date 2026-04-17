@@ -1,6 +1,6 @@
 {
 	"Name": "Entity Trials - Season 1",
-	"Version": 1770151150,
+	"Version": 1776462396,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -20,6 +20,7 @@
 				"247",
 				"19",
 				"20",
+				"73",
 				"22",
 				"23",
 				"25",
@@ -43,7 +44,6 @@
 				"66",
 				"69",
 				"269",
-				"73",
 				"74",
 				"81",
 				"83",
@@ -99,10 +99,10 @@
 				"278",
 				"205",
 				"284",
-				"209",
 				"216",
 				"218",
 				"298",
+				"209",
 				"225",
 				"227",
 				"235",
@@ -595,7 +595,6 @@
 				"21",
 				"246",
 				"34",
-				"36",
 				"38",
 				"57",
 				"76",
@@ -606,7 +605,8 @@
 				"102",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1670,10 +1670,10 @@
 		},
 		{
 			"Name": "The Nemesis",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "2x Firecracker",
+			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -1684,7 +1684,36 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"8",
+				"13",
+				"21",
+				"246",
+				"34",
+				"38",
+				"39",
+				"50",
+				"57",
+				"61",
+				"62",
+				"65",
+				"67",
+				"72",
+				"295",
+				"76",
+				"77",
+				"80",
+				"85",
+				"89",
+				"96",
+				"102",
+				"107",
+				"109",
+				"112",
+				"121",
+				"127",
+				"36"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1692,7 +1721,9 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -1716,8 +1747,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Cenobite",
@@ -1793,11 +1830,11 @@
 			"SurvivorIndvPerkBans": [
 				"13",
 				"34",
-				"36",
 				"38",
 				"80",
 				"96",
-				"121"
+				"121",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2004,7 +2041,6 @@
 				"13",
 				"21",
 				"34",
-				"36",
 				"38",
 				"76",
 				"80",
@@ -2013,7 +2049,8 @@
 				"102",
 				"112",
 				"121",
-				"128"
+				"128",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2784,12 +2821,10 @@
 		},
 		{
 			"Name": "The Krasue",
-			"KillerNotes": "1x Firecracker\n1x Utility Flashlight\n1x Camping Aid Kit (Bandages + Gel Dressings)\n1x Toolbox (Brown Add-ons)",
+			"KillerNotes": "1x Firecracker\n1x Sport Flashlight\n",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"11",
-				"54"
+				"11"
 			],
 			"BalanceTiers": [
 				0
@@ -2803,13 +2838,30 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
+				"6",
+				"13",
+				"21",
 				"246",
-				"36",
+				"34",
 				"38",
+				"50",
+				"294",
+				"57",
+				"67",
+				"295",
 				"76",
+				"77",
 				"80",
+				"89",
 				"96",
-				"127"
+				"92",
+				"102",
+				"112",
+				"121",
+				"127",
+				"128",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2823,9 +2875,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				6,
-				7,
-				15
+				6
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2835,17 +2885,10 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": [
-						2,
-						11
-					]
+					"Addons": []
 				},
 				"Toolbox": {
-					"Addons": [
-						0,
-						1,
-						2
-					]
+					"Addons": []
 				},
 				"Key": {
 					"Addons": []
@@ -2868,10 +2911,10 @@
 		},
 		{
 			"Name": "The First",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "1x Firecracker\n1x Sport Flashlight",
+			"IsDisabled": false,
 			"Map": [
-				0
+				"54"
 			],
 			"BalanceTiers": [
 				0
@@ -2882,7 +2925,31 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"1",
+				"13",
+				"21",
+				"246",
+				"34",
+				"38",
+				"50",
+				"294",
+				"57",
+				"67",
+				"295",
+				"76",
+				"77",
+				"80",
+				"89",
+				"96",
+				"92",
+				"102",
+				"112",
+				"121",
+				"127",
+				"128",
+				"36"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2890,7 +2957,10 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -2914,8 +2984,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		}
 	]
 }
