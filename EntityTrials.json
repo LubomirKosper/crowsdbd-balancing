@@ -1,6 +1,6 @@
 {
 	"Name": "Entity Trials - Season 1",
-	"Version": 1776462396,
+	"Version": 1777668422,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -212,7 +212,6 @@
 				"21",
 				"246",
 				"34",
-				"36",
 				"38",
 				"57",
 				"76",
@@ -225,7 +224,8 @@
 				"112",
 				"121",
 				"127",
-				"128"
+				"128",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1129,10 +1129,12 @@
 		},
 		{
 			"Name": "The Plague",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "Sub for The Mastermind (01.05.2026)\n\n1x Firecracker\n1x Sport Flashlight\n\nWreckers Yard\nSuffocation pit 1\nAzarov Resting Place ",
+			"IsDisabled": false,
 			"Map": [
-				0
+				"4",
+				"5",
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -1143,15 +1145,45 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"1",
+				"13",
+				"21",
+				"34",
+				"38",
+				"39",
+				"53",
+				"57",
+				"65",
+				"76",
+				"80",
+				"96",
+				"92",
+				"102",
+				"112",
+				"121",
+				"128",
+				"36"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"AddonTiersBanned": [
+				4
+			],
+			"IndividualAddonBans": [
+				298,
+				297,
+				285,
+				281,
+				279
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -1175,8 +1207,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Ghost Face",
