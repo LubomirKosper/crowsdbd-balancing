@@ -1,6 +1,6 @@
 {
 	"Name": "Entity Trials - Season II",
-	"Version": 1791400170,
+	"Version": 1791400370,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Entity Trials - Season II\n\nKaždý perk smí být použit POUZE JEDNOU. \n\nUpozorňujeme, že každý killer je zařazen do určité třídy (tieru). Obecná pravidla balancingu platí pro všechny killery. Každá třída navíc obsahuje specifická pravidla balancingu, která se vztahují na všechny killery v dané třídě. A konečně, jednotlivé stránky pro každého killera obsahují informace o povolených mapách, addonech, offeringech a itemech, včetně individuálních zákazů pro daného killera.\n\nKiller si musí vybrat kde bude basement.\n\nPříklad – Blight: Obecný balancing + Tier 1 balancing + Blight Individuální balancing.\n",
 	"Tiers": [
@@ -1228,7 +1228,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"20",
+				"32",
+				"34"
 			],
 			"BalanceTiers": [
 				0
